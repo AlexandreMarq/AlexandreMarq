@@ -27,7 +27,12 @@ Atualmente estou cursando Análise de Dados como Pós graduação e cursando ing
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+
+<div><br>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=ProjetoTccEmpresa_API&theme=outrun">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=ProjetoTccEmpresa_Banco&theme=outrun">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=api_python&theme=outrun">
+</div>
  
 <div><br><br>
   <a href = "mailto:alexandremarqq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
