@@ -39,14 +39,6 @@ Atualmente estou cursando Análise de Dados como Pós graduação e cursando ing
   </div>
     
 <div><br>
-  <!-- <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=AppBase&theme=outrun">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=compose_tools_kit&theme=outrun">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=google_course_jetpack_compose_mars_photos&theme=outrun">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=google_course_jetpack_compose_article&theme=outrun">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=FilmesCoroutines&theme=outrun">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=google_course_jetpack_compose_quadrant&theme=outrun"> -->
-</div>
-<div><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexandreMarq/AlexandreMarq/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexandreMarq/AlexandreMarq/output/github-contribution-grid-snake.svg">
