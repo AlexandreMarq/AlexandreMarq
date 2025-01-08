@@ -14,7 +14,7 @@ Estou sempre em busca de novas maneiras de aprimorar minhas habilidades.
 Atualmente estou cursando Análise de Dados como Pós graduação e cursando inglês na cultura inglesa
 <br>
 
-<img width="52%" src="https://github-readme-stats.vercel.app/api?username=AlexandreMarq&show_icons=true&theme=outrun&count_private=true">  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMarq&layout=compact&theme=outrun">
+<img width="52%" src="https://github-readme-stats.vercel.app/api?username=AlexandreMarq&show_icons=true&theme=outrun&count_private=true">  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcem&layout=compact&theme=outrun">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
