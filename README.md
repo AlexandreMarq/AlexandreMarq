@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem+Vindo!+👋;+Me+Chamo+Alexandre!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true%color=000000&width=500&height=70&duration=4000&lines=Bem+Vindo!+👋;+Me+Chamo+Alexandre!;" />
 </h1>
 
 <br>
