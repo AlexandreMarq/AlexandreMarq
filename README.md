@@ -34,7 +34,7 @@ Atualmente estou cursando Análise de Dados como Pós graduação e cursando ing
 </div>
  
 <div><br><br>
-  <a href = "mailto:alexandremarqq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alexandre.marqq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandre-marques-4857b8140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </div>
     
