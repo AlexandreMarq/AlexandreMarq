@@ -1,3 +1,7 @@
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Alexandre!;" />
+</h1>
+
 <br>
 Olá!
 Me chamo Alexandre e sou um analista de sistemas apaixonado por desafios e por tecnologia. Atualmente, estou focado em aprimorar minhas habilidades na área de análise de dados. 
