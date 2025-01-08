@@ -30,7 +30,7 @@ Atualmente estou cursando Análise de Dados como Pós graduação e cursando ing
 
 <div><br>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=ProjetoTccEmpresa_API&theme=outrun">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=ProjetoTccEmpresa_Banco&theme=outrun">
+
   <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=api_python&theme=outrun">
 </div>
  
