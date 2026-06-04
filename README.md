@@ -14,10 +14,7 @@ Minhas experiências:
  Aprendendo mais sobre Python e Power BI
 
 Estou sempre em busca de novas maneiras de aprimorar minhas habilidades.
-Atualmente estou cursando Análise de Dados como Pós graduação e cursando inglês na cultura inglesa
 <br>
-
-<img width="52%" src="https://github-readme-stats.vercel.app/api?username=AlexandreMarq&show_icons=true&theme=dark&count_private=true">  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMarq&layout=compact&theme=dark">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
@@ -26,11 +23,6 @@ Atualmente estou cursando Análise de Dados como Pós graduação e cursando ing
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-<div><br>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=ProjetoTccEmpresa_API&theme=dark">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreMarq&repo=api_python&theme=dark">
 </div>
  
 <div><br><br>
